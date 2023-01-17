@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 A Colorado Board of Education member has asked us to complete the following tasks to complete an election audit of a recent congressional election election. 
